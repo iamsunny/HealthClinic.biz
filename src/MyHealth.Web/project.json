@@ -37,10 +37,10 @@
         "Microsoft.Extensions.DiagnosticAdapter": "1.0.0-rc1-final",
         "System.Runtime.Serialization.Json": "4.0.1-beta-*",
         "Newtonsoft.Json": "7.0.1",
-        "MyHealth.Model": "",
-        "MyHealth.Office365": "",
-        "MyHealth.Data": "",
-        "MyHealth.API": ""
+        "MyHealth.Model": ">0",
+        "MyHealth.Office365": ">0",
+        "MyHealth.Data": ">0",
+        "MyHealth.API": ">0"
     },
 
     "commands": {
