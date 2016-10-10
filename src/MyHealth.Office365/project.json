@@ -8,7 +8,7 @@
         "Microsoft.IdentityModel.Clients.ActiveDirectory": "3.5.208051316-alpha",
         "Microsoft.Extensions.Configuration.Json": "1.0.0-rc1-final",
         "Newtonsoft.Json": "7.0.1",
-        "MyHealth.Model": "",
+        "MyHealth.Model": "1.0.0-*",
         "Microsoft.Extensions.Configuration.EnvironmentVariables": "1.0.0-rc1-final"
     },
 

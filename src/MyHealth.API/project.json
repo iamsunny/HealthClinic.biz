@@ -9,9 +9,9 @@
     "Microsoft.AspNet.Mvc": "6.0.0-rc1-final",
     "Microsoft.Extensions.Configuration.Json": "1.0.0-rc1-final",
     "Microsoft.Net.Http.Server": "1.0.0-rc1-final",
-    "MyHealth.Data": "",
-    "MyHealth.Model": "",
-    "MyHealth.Office365": ""
+    "MyHealth.Data": "1.0.0-*",
+    "MyHealth.Model": "1.0.0-*",
+    "MyHealth.Office365": "1.0.0-*"
   },
 
   "frameworks": {
